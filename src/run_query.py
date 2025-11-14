@@ -26,6 +26,12 @@ try:
     else:
         # Print first 20 rows nicely
         print(df.to_string(index=False))
+        # Also write results to CSV for downstream use
+        out_dir = os.path.join(ROOT, 'data')
+        os.makedirs(out_dir, exist_ok=True)
+        out_path = os.path.join(out_dir, 'query_report.csv')
+        df.to_csv(out_path, index=False)
+        print(f"Wrote query results to {out_path}")
 finally:
     conn.close()
 

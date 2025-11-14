@@ -53,6 +53,8 @@ python src\run_query.py
 
 This reads `query.sql`, runs it against `ecom.db`, and prints the top 20 joined rows.
 
+After running `src/run_query.py` a CSV file with the query results will be written to `data/query_report.csv`.
+
 Pushing to GitHub
 
 If you want to push this project to your GitHub repository, run these commands (replace the URL):
