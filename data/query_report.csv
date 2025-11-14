@@ -1,0 +1,21 @@
+customer_name,product_name,quantity,order_date,payment_method,payment_status,total_amount
+Dr. Cynthia Snyder,Sister Improve,1,2025-11-13,paypal,paid,52.39
+Kathy Levy,Here Sort,1,2025-11-06,credit_card,paid,540.48
+Kathy Levy,Fish Executive,1,2025-11-06,credit_card,paid,540.48
+Joshua Li,Here Sort,1,2025-10-31,credit_card,pending,738.21
+Joshua Li,Fish Executive,2,2025-10-31,credit_card,pending,738.21
+Austin Johnson,Wear Operation,1,2025-10-29,apple_pay,paid,285.85
+Austin Johnson,Husband Summer,1,2025-10-29,apple_pay,paid,285.85
+Juan Smith,Learn Fact,1,2025-10-28,bank_transfer,paid,46.97
+Courtney Hayes,One Music,1,2025-10-24,credit_card,paid,144.76
+Hayley Hawkins,Know Firm,1,2025-10-09,apple_pay,pending,98.86
+Martin Ray,Piece Still,1,2025-09-19,paypal,paid,371.99
+James Padilla,Culture Lawyer,1,2025-09-11,credit_card,paid,705.79
+James Padilla,Process Mission,1,2025-09-11,credit_card,paid,705.79
+James Padilla,Process Mission,1,2025-09-11,credit_card,paid,705.79
+James Padilla,Training Girl,1,2025-09-11,credit_card,paid,705.79
+Laura Moreno,Chair Exist,1,2025-09-03,bank_transfer,paid,430.3
+Isaac Turner,Culture Lawyer,1,2025-09-02,paypal,paid,1371.66
+Isaac Turner,Better Picture,3,2025-09-02,paypal,paid,1371.66
+Isaac Turner,Training Girl,1,2025-09-02,paypal,paid,1371.66
+Latoya Miller,Agree Behind,1,2025-08-20,bank_transfer,paid,68.79
